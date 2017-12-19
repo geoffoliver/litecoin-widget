@@ -1,7 +1,7 @@
 Litecoin price widget
 ====================
 
-Retrieves Lite exchange rate prices for currencies from coinmarketcap.com
+Retrieves Litecoin exchange rate prices for currencies from coinmarketcap.com
 
 Works with [Übersicht](http://tracesof.net/uebersicht/) on OSX.
 
